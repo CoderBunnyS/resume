@@ -1,0 +1,26 @@
+{
+    "name": "Bunny Schaefer",
+    "website": "",
+    "linkedin": "",
+    "github": "coderbunnys",
+    "email": "schaeferbunny@gmail.com",
+    "resume": "",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
